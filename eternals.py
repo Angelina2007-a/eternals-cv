@@ -1,2 +1,2 @@
-print("eternals")
-print("lusu dharshini")
+print("Eternals")
+
